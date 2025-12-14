@@ -17,7 +17,7 @@ This task implements an integrated Graphical User Interface (GUI) within Unity t
 ## Files
 
 - `BlueRovGuiController.cs`: The C# script that handles UI events and ROS publishing
-- `videos/videoname.webm`: Video demonstration of the GUI controlling the robot
+- `videos/demo.webm`: Video demonstration of the GUI controlling the robot
 
 ## How to Run
 

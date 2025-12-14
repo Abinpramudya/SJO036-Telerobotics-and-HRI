@@ -8,7 +8,7 @@ This task implements a bridge to capture the BlueROV camera feed in Unity, compr
 ## Files
 
 - `BlueRovCameraPublisher.cs`: The C# script attached to the BlueROV camera object in Unity
-- `videos/videoname.webm`: Video demonstration of the camera visualization working in RVIZ
+- `videos/demo.webm`: Video demonstration of the camera visualization working in RVIZ
 
 ## How to Run
 
